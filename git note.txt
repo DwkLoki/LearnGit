@@ -13,4 +13,10 @@ untuk melakukan commit pertama
 git --help
 untuk melihat argumen apa aja yang memungkinkan untuk perintah git
 
-jdfklkjkkljkaljsakldj
+jdfklljkaljsakldj
+
+perkenalkan nama saya dwiky darmawansyah
+asal dari kota makassar
+
+sekarang saya sedang kuliah semester 5.
+hobi saya menonton film.
