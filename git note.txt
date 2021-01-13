@@ -1,0 +1,16 @@
+git init
+perintah untuk inisialisasi folder untuk dideteksi git
+
+git add
+menginisialisasi file yg mau di git
+
+git status
+mengecek status repo git
+
+git commit -m "first commit"
+untuk melakukan commit pertama
+
+git --help
+untuk melihat argumen apa aja yang memungkinkan untuk perintah git
+
+jdfklkjkkljkaljsakldj
